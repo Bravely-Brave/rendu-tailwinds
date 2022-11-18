@@ -4,7 +4,10 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'header': "url('../images/image-header.jpg')"
+        'header': "url('../images/mobile/image-header.jpg')",
+        'desk': "url('../images/desktop/image-header.jpg')",
+        
+
       }
     },
   },
